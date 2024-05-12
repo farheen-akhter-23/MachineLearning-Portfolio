@@ -6,7 +6,7 @@ This is a repository of the projects I have worked on or will be working on. It 
 
 **Build Image Classifier model using ANY image with TensorFlow** 
 
-- Using Keras(SequentialModel) Happy Vs Sad People [Link](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/blob/main/Google%20Colab/ImageClassifier_HappyVsSad/ImageClassifier_RandomImageClasses.ipynb)).
+- Using Keras(SequentialModel) Happy Vs Sad People [Link](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/blob/main/Google%20Colab/ImageClassifier_HappyVsSad/ImageClassifier_RandomImageClasses.ipynb).
 - Keywords(Keras, Image Classification,CNN)
 
 
