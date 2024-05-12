@@ -10,7 +10,6 @@ This is a repository of the projects I have worked on or will be working on. It 
 - **Keywords**(Keras, Image Classification,CNN)
 
 ![image](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/33249331-d90d-4de1-887e-0c37becfb2d2)
-
 ![image](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/28bf8cd5-5a85-4520-93ae-ad78207c9c54)
 
 **Image Segmentation model using YOLOS** 
