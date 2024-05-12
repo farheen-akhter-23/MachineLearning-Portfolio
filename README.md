@@ -2,7 +2,7 @@
 
 This is a repository of the projects I have worked on or will be working on. It is updated regularly. I have started my projects on deep learning and will be moving this journey of learning toward generative AI llm's and chose to be updated with the latest technology going forward 
 
-# Projects
+## Projects
 
 **Build Image Classifier model using ANY image with TensorFlow** 
 
