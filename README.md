@@ -4,7 +4,7 @@ This is a repository of the projects I have worked on or will be working on. It 
 
 # Projects
 
-# Build Image Classifier model using ANY image with TensorFlow
+** Build Image Classifier model using ANY image with TensorFlow ** 
 
 
 •	Using Keras(SequentialModel) Happy Vs Sad People [Link]
