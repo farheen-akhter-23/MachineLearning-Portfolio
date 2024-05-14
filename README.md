@@ -21,7 +21,7 @@ This is a repository of the projects I have worked on or will be working on. It 
 
 **Toxicity Model using TextVector Tokenization** 
 
-- Comments can get toxic in this social media generation , built a model to detect toxic words and predict results by vectroization[[Link]](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/tree/main/Google%20Colab/ToxicityModel-Tokenization)
+- Comments can get toxic in this social media generation , built a model to detect toxic words and predict results by vectorization[[Link]](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/tree/main/Google%20Colab/ToxicityModel-Tokenization)
 - **Keywords**(TensorFlow, Text Detection,NLP)
 
 https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/ec96a0f8-12d5-4673-a4d9-6a17f7efc1eb
