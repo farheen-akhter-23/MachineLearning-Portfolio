@@ -28,3 +28,13 @@ https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/ec
 
 - Public url of the Model - https://debc4cae83290afb42.gradio.live/
 
+**Build a GAN - Generative Machine Learning Model** 
+
+- Generates images using FashioMnist Dataset
+- Build a generator and discriminator using CNN Conv2D [[Link]](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/blob/main/Google%20Colab/YOLOSegmentation/app.py)
+- **Keywords**(Keras, GAN,Generator,Discriminator)
+  Generator - Trying to build Fake Images
+  ![image](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/0d4e2430-750f-4be6-8a4d-3d18f9187708)
+  Output - Generating Similar Images after training for 2000 Epochs
+  ![image](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/fdb5bf3f-c653-47e5-b909-64bf0235ffe7)
+
