@@ -8,7 +8,8 @@ This is a repository of the projects I have worked on or will be working on. It 
 
 - Using Keras(SequentialModel) Happy Vs Sad People [[Link]](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/blob/main/Google%20Colab/ImageClassifier_HappyVsSad/ImageClassifier_RandomImageClasses.ipynb)
 - **Keywords**(Keras, Image Classification,CNN)
-  ![image](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/f041564f-3a31-4381-ac4a-37508111c7c3)
+
+   ![image](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/f041564f-3a31-4381-ac4a-37508111c7c3)
   ![image](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/dffee751-1a50-4dbb-83a7-7e67920928b3)
 
 **Image Segmentation model using YOLOS** 
