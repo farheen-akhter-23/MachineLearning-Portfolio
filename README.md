@@ -33,6 +33,7 @@ https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/ec
 - Generates images using FashioMnist Dataset
 - Build a generator and discriminator using CNN Conv2D [[Link]](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/blob/main/Google%20Colab/GAN-Model/GAN_Generative_Adversarial_Network.ipynb)
 - **Keywords**(Keras, GAN,Generator,Discriminator)
+  
   Generator - Trying to build Fake Images
   ![image](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/0d4e2430-750f-4be6-8a4d-3d18f9187708)
   Output - Generating Similar Images after training for 2000 Epochs
