@@ -1,4 +1,4 @@
-# MachineLearning Porfolio
+# MachineLearning Portfolio
 
 This is a repository of the projects I have worked on or will be working on. It is updated regularly. I have started my projects on deep learning and will be moving this journey of learning toward generative AI llm's and chose to be updated with the latest technology going forward 
 
@@ -9,8 +9,8 @@ This is a repository of the projects I have worked on or will be working on. It 
 - Using Keras(SequentialModel) Happy Vs Sad People [[Link]](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/blob/main/Google%20Colab/ImageClassifier_HappyVsSad/ImageClassifier_RandomImageClasses.ipynb)
 - **Keywords**(Keras, Image Classification,CNN)
 
-![image](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/33249331-d90d-4de1-887e-0c37becfb2d2)
-![image](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/28bf8cd5-5a85-4520-93ae-ad78207c9c54)
+   ![image](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/f041564f-3a31-4381-ac4a-37508111c7c3)
+  ![image](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/dffee751-1a50-4dbb-83a7-7e67920928b3)
 
 **Image Segmentation model using YOLOS** 
 
@@ -31,8 +31,9 @@ https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/ec
 **Build a GAN - Generative Machine Learning Model** 
 
 - Generates images using FashioMnist Dataset
-- Build a generator and discriminator using CNN Conv2D [[Link]](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/blob/main/Google%20Colab/YOLOSegmentation/app.py)
+- Build a generator and discriminator using CNN Conv2D [[Link]](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/blob/main/Google%20Colab/GAN-Model/GAN_Generative_Adversarial_Network.ipynb)
 - **Keywords**(Keras, GAN,Generator,Discriminator)
+  
   Generator - Trying to build Fake Images
   ![image](https://github.com/FarheenAkhter786/MachineLearning_Porfolio/assets/144804109/0d4e2430-750f-4be6-8a4d-3d18f9187708)
   Output - Generating Similar Images after training for 2000 Epochs
