@@ -46,7 +46,7 @@ console.log(action,"Speak up words from the list")
    
     <div className="App">
       <header className="App-header">
-        <h1>Speech Recognition(TensorFlow Model) App using ReactJS </h1>
+        <h1>Speech Recognition </h1>
           <button onClick={recognizeCommands}>Give Command</button>
           {action ? <p>{action}</p>:<p>No Action Detected</p> }
       </header>
