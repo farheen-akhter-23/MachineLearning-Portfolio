@@ -48,7 +48,7 @@ console.log(action,"Speak up words from the list")
       <header className="App-header">
         <h1>Speech Recognition </h1>
           <button onClick={recognizeCommands}>Give Command</button>
-          {action ? <p>{action}</p>:<p>No Action Detected</p> }
+          {action ? <p>{action}</p>:<p>No Voice Heard!</p> }
       </header>
     </div>
   );

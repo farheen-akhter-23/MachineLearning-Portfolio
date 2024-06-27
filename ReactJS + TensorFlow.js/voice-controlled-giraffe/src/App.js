@@ -62,7 +62,7 @@ useEffect(()=>{
   const ctx = canvasRef.current.getContext('2d')
   console.log(x,y,r)
   drawGiraffe(ctx,canvas,x,y,r)
-  setAction('base')
+  setAction('')
 }, [action])
 
 // 3. Listen for Actions
@@ -100,7 +100,7 @@ const recognizeCommands = async () =>{
         />
        
           <button onClick={recognizeCommands}>Command</button>
-          {action ? <div>{action}</div>:<div>No Action Detected</div> }
+          {action ? <div>{action}</div>:<div>You control Me!</div> }
       </header>
     </div>
   );
