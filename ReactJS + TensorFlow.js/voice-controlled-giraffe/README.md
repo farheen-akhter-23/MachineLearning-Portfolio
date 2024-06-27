@@ -1,3 +1,11 @@
+#Demo 
+
+https://github.com/FarheenAkhter786/MachineLearning-Portfolio/assets/144804109/acb20e84-5b8b-43a8-b58c-9d7f7bc7e4bb
+
+# Please follow the steps below to run speech recognition app if your not cloning this repository
+- Use NVM where you can switch between node versions , recommended **nodev16**
+- Install **util** package as the older versions doesnt provide compatibility
+- Then include this code in "browser": { "fs": false} in \node_modules\@tensorflow-models\speech-commands ->package.json
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
